@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AS_Portfolio</string>
+    <color name="primary">#3F51B5</color> <!-- Indigo 500 -->
+    <color name="primaryVariant">#303F9F</color> <!-- Indigo 700 -->
+    <color name="secondary">#FF4081</color> <!-- Pink A200 -->
+    <color name="background">#FFFFFF</color> <!-- White -->
+    <color name="surface">#FFFFFF</color> <!-- White -->
+    <color name="error">#B00020</color> <!-- Red A700 -->
+    <color name="onPrimary">#FFFFFF</color> <!-- White -->
+    <color name="onSecondary">#000000</color> <!-- Black -->
+    <color name="onBackground">#000000</color> <!-- Black -->
+    <color name="onSurface">#000000</color> <!-- Black -->
+    <color name="onError">#FFFFFF</color> <!-- White -->
+
+</resources>
